@@ -6,7 +6,7 @@
 [![LeetCode Stats](https://leetcard.jacoblin.cool/user3843Jp?theme=dark&font=Roboto&ext=heatmap)](https://leetcode.com/u/user3843Jp/)
 
 ### 📊 Kaggle Progress
-[![Kaggle](https://road-to-kaggle-grandmaster.vercel.app/api/simple/username)](https://www.kaggle.com/shadowking255)
+[![Kaggle](https://road-to-kaggle-grandmaster.vercel.app/api/simple/shadowking255)](https://www.kaggle.com/shadowking255)
 
 
 # 💻 Tech Stack
