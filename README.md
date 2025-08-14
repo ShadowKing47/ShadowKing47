@@ -1,15 +1,18 @@
+## About Me
 
-## 🌐 Socials:
+- Developer passionate about Blockchain, AI/ML, and Full-Stack Development  
+- Currently working on Solidity, Foundry, and Ethereum protocol research  
+- Open to collaborations on blockchain dApps, AI/ML research, and open-source projects  
+- Seeking guidance on optimizing LLM inference pipelines and blockchain forensic tools  
+
+##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/noel-tony-0b0878248/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:noelnoel255@gmail.com) 
 
-### 🚀 LeetCode Progress
+###  LeetCode Progress
 [![LeetCode Stats](https://leetcard.jacoblin.cool/user3843Jp?theme=dark&font=Roboto&ext=heatmap)](https://leetcode.com/u/user3843Jp/)
 
-### 📊 Kaggle Progress
-[![Kaggle](https://road-to-kaggle-grandmaster.vercel.app/api/simple/shadowking255)](https://www.kaggle.com/shadowking255)
 
-
-# 💻 Tech Stack
+#  Tech Stack
 
 ## **Languages**
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -67,8 +70,7 @@
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ShadowKing47&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+#  GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=ShadowKing47&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowKing47&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
