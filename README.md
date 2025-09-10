@@ -2,7 +2,7 @@
 
 - Developer passionate about Blockchain, AI/ML, and Full-Stack Development  
 - Currently working on Solidity, Foundry, and Ethereum protocol research  
-- Open to collaborations on blockchain dApps, AI/ML research, and open-source projects  
+- Open to collaborations on blockchain dApps, AI/ML, research and open-source projects  
 - Seeking guidance on optimizing LLM inference pipelines and blockchain forensic tools  
 
 ##  Socials:
